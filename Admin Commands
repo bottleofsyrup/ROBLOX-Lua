@@ -12,9 +12,9 @@ local DefaultSettings = {
 Lighting = {Ambient = Services.Lighting.Ambient, Brightness = Services.Lighting.Brightness, ColorShift_Bottom = Services.Lighting.ColorShift_Bottom, ColorShift_Top = Services.Lighting.ColorShift_Top, GlobalShadows = Services.Lighting.GlobalShadows, OutdoorAmbient = Services.Lighting.OutdoorAmbient, Outlines = Services.Lighting.Outlines, TimeOfDay = Services.Lighting.TimeOfDay, FogColor = Services.Lighting.FogColor, FogEnd = Services.Lighting.FogEnd, FogStart = Services.Lighting.FogStart},
 -- Idk.
 }
-local Owners = {"Player1", "DurstAuric",} -- People who can set admins, kick and ban and so on.
+local Owners = {"Player1", "Reasons2Blox",} -- People who can set admins, kick and ban and so on.
 local Admins = {"Player2", "Player3",} -- People who can use certain commands.
-local Banned = {"SomeNoobWhoAbusesYourGame", "Exploiter",} -- For those who are abusive or you just dislike.
+local Banned = {"SomeNoob", "Exploiter",} -- For those who are abusive or you just dislike.
 
 --[[---------------
 	Main Script
